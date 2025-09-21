@@ -1,4 +1,4 @@
-# THREEjs Leaning Curve
+# THREE.JS Leaning Curve
 
 ### This Repository is a learning curve of me learning three.js
 
